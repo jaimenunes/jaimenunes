@@ -18,7 +18,7 @@
   <img align="center" alt="git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   
-  <img align="right" alt="jaime-pic" height="150" style="border-radius:50px;" src="https://i.imgur.com/j8j8KAs.gif">
+  <img align="right" alt="jaime-pic" height="150" style="border-radius:50px;" src="https://i.imgur.com/s6NDPJ4.png">
 </div>
   
  <hr>
