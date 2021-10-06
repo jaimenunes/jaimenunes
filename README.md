@@ -2,6 +2,8 @@
 <p>🚀 Front-end</p>
 <p>⚡ HTML, CSS, Javascript and Bootstrap</p>
 <p>🌱 studying React and typescript</p>
+<p><q>Someone's sitting in the shade today because someone planted a tree a long time ago.</q> - Warren bufett</p>
+<hr>
 <div>
   <a href="https://github.com/jaimenunes">
   <img height="180em" width="49%" src="https://github-readme-stats.vercel.app/api?username=jaimenunes&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
