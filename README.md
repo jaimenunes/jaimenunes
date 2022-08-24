@@ -1,7 +1,7 @@
 <h1> Hello I'm Jaime Nunes Leal ✌</h1>
 <p>🚀 Front-end</p>
 <p>⚡ HTML, CSS, Javascript and Bootstrap</p>
-<p>🌱 studying React and typescript</p>
+<p>🌱 studying Angular and typescript</p>
 <p><q>Someone's sitting in the shade today because someone planted a tree a long time ago.</q> - Warren bufett</p>
 <hr>
 <div>
