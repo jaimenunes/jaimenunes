@@ -19,16 +19,15 @@
   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg">
   
-  <img align="right" alt="jaime-pic" height="150" style="border-radius:50px;" src="https://i.imgur.com/s6NDPJ4.png">
 </div>
   
  <hr>
  
 <div> 
-  <a href="https://instagram.com/jaimenunesleal" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"      target="_blank"></a>
+  <a href="https://instagram.com/jaimenunesleal" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23333?style=for-the-badge&logo=instagram&logoColor=white"      target="_blank"></a>
   <a href = "mailto:jaimenunesleal@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/jaimenunesleal/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"      target="_blank"></a>
-  <a href="https://twitter.com/jaimenunesleal" target="_blank"><img src="https://img.shields.io/badge/-Twitter-%230077B5?style=for-the-badge&logo=twitter&logoColor=white"      target="_blank"></a>
+  <a href="https://www.linkedin.com/in/jaimenunesleal/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%23333?style=for-the-badge&logo=linkedin&logoColor=white"      target="_blank"></a>
+  <a href="https://twitter.com/jaimenunesleal" target="_blank"><img src="https://img.shields.io/badge/-Twitter-%23333?style=for-the-badge&logo=twitter&logoColor=white"      target="_blank"></a>
   <a href = "https://codepen.io/JaimeNunes"><img src="https://img.shields.io/badge/-Codepen-%23333?style=for-the-badge&logo=codepen&logoColor=white" target="_blank"></a>
   
 </div>
