@@ -1,7 +1,7 @@
 <h1> Hello I'm Jaime Nunes Leal ✌</h1>
-<p>🚀 Front-end</p>
-<p>⚡ HTML, CSS, Javascript and Bootstrap</p>
-<p>🌱 studying Angular and typescript</p>
+<p>🚀 Front-end developer | Angular framework</p>
+<p>Living at Florianópolis, Brazil, Analysis and Development Systems undergraduate student.</p>
+<hr>
 <p><q>Someone's sitting in the shade today because someone planted a tree a long time ago.</q> - Warren bufett</p>
 <hr>
 <div>
