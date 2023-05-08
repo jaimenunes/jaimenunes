@@ -1,5 +1,5 @@
 <h1> Hello I'm Jaime Nunes Leal ✌</h1>
-<p>🚀 Front-end developer | Angular framework</p>
+<p>🚀 Full Stack Developer</p>
 <p>Living at Florianópolis, Brazil, Analysis and Development Systems undergraduate student.</p>
 <hr>
 <p><q>Someone's sitting in the shade today because someone planted a tree a long time ago.</q> - Warren bufett</p>
